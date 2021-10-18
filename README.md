@@ -1,4 +1,4 @@
 # KotlinChain
 A simple blockchain made with kotlin
 
-Advanced Version to be posted later today
+Advanced Version using Python and Postman to be posted later
